@@ -9,9 +9,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue" />
 
   <img alt="Front-end Web" src="https://img.shields.io/badge/Web-React-blue" />
-  
-  <img alt="Front-End Mobile" src="https://img.shields.io/badge/Mobile-React--Native-blue" />
-  
+    
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
  
 </p>
