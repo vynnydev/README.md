@@ -2,15 +2,15 @@
 
 <p align="center">
   
-  <img alt="Backend" src="https://img.shields.io/badge/Back--End-TypeScript-blue" />
+  <img alt="Backend Lang" src="https://img.shields.io/badge/Back--End-TypeScript-blue" />
+
+  <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
-  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-DDD%20%26%20Clean%20architecture-brightgreen" />
-
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue" />
-
-  <img alt="Front-end Web" src="https://img.shields.io/badge/Web-React-blue" />
-    
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
+
+  <img alt="GCP" src="https://img.shields.io/badge/Cloud-GCP-blue" />
+  
+  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Architecture-lightgrey" />
  
 </p>
 
