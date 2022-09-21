@@ -14,10 +14,10 @@
  
 </p>
 
-I am a Back-end/Full-stack developer, passionate about the Typescript language, integrated testing with Jest and architectures like Clean Architecture and DDD and also React on the front end, which are currently powerful in the market, bringing to me more experience and happiness with it every day.
+I act as a preference in backend development, mainly in the cultural environment devops. At the moment, I have loved developing projects with Terraform in conjunction with other cloud tools.
 
-- :office: I'm Back-end develop in Profitfy company
-- 🌱 I’m currently learning Typescript, Jest, BDD Specs, Docker, SOLID patterns, Clean Architecture, microservices and Serveless
+- :office: I'm DevOps Engineer
+- 🌱 I am currently learning Typescript, Terraform, AWS, GCP, along with DevOps culture tools
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
   See my Instagram: vynnydev => Vinicius Prudencio /
@@ -28,7 +28,6 @@ I am a Back-end/Full-stack developer, passionate about the Typescript language, 
 These are some of the technologies and tools that I like and study:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffc43d?style=flat-square&logo=javascript&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-2a9d8f?style=flat-square&logo=jest&logoColor=white)
 ![commitlint](https://img.shields.io/badge/-commitlint-black?style=flat-square&logo=commitlint&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-typeorm&logo=white)
