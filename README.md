@@ -2,11 +2,11 @@
 
 <p align="center">
   
-  <img alt="Backend First Lang" src="https://img.shields.io/badge/-Typescript-blue" />
+  <img alt="Backend First Lang" src="[https://img.shields.io/badge/-Typescript-blue](https://img.shields.io/badge/First-Typescript-blue)" />
   
-  <img alt="Backend Second Lang" src="https://img.shields.io/badge/-Python-informational" />
+  <img alt="Backend Second Lang" src="[https://img.shields.io/badge/-Python-informational](https://img.shields.io/badge/Second-Python-informational)" />
   
-  <img alt="Backend Third Lang" src="https://img.shields.io/badge/-Golang-9cf" />
+  <img alt="Backend Third Lang" src="[https://img.shields.io/badge/-Golang-9cf](https://img.shields.io/badge/Third-Golang-9cf)" />
 
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
