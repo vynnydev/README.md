@@ -2,7 +2,11 @@
 
 <p align="center">
   
-  <img alt="Backend Lang" src="https://img.shields.io/badge/Back--End-TypeScript-blue" />
+  <img alt="Backend First Lang" src="https://img.shields.io/badge/-Typescript-blue" />
+  
+  <img alt="Backend Second Lang" src="https://img.shields.io/badge/-Python-informational" />
+  
+  <img alt="Backend Third Lang" src="https://img.shields.io/badge/-Golang-9cf" />
 
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
