@@ -15,6 +15,8 @@
   <img alt="GCP" src="https://img.shields.io/badge/Cloud-GCP-blue" />
   
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Architecture-lightgrey" />
+  
+  <img alt="IA" src="https://img.shields.io/badge/IA-TensorFlow-important" />
  
 </p>
 
