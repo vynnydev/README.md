@@ -23,7 +23,7 @@
 I act as a preference in backend development, mainly in the cultural environment devops. At the moment, I have loved developing projects with Terraform in conjunction with other cloud tools.
 
 - :office: I'm DevOps Engineer
-- 🌱 I am currently learning Typescript, Terraform, AWS, GCP, along with DevOps culture tools
+- 🌱 I am currently learning Python, Terraform, AWS, GCP, along with DevOps culture tools
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
   See my Instagram: vynnydev => Vinicius Prudencio /
