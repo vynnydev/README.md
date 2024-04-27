@@ -11,19 +11,15 @@
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
-
-  <img alt="GCP" src="https://img.shields.io/badge/Cloud-GCP-blue" />
   
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Architecture-lightgrey" />
-  
-  <img alt="IA" src="https://img.shields.io/badge/IA-TensorFlow-important" />
  
 </p>
 
-I act as a preference in backend development, mainly in the cultural environment devops. At the moment, I have loved developing projects with Terraform in conjunction with other cloud tools.
+I act as a preference in software enginneer cloud, mainly in the cultural environment devops. At the moment, I have loved developing projects with Terraform in conjunction with other cloud tools.
 
 - :office: I'm DevOps Engineer
-- 🌱 I am currently learning Python, Terraform, AWS, GCP, along with DevOps culture tools
+- 🌱 I am currently learning Python, Terraform, AWS, Azure, along with DevOps culture tools
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio-64bb99128/
   See my Instagram: vynnydev => Vinicius Prudencio /
