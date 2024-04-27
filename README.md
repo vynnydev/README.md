@@ -44,4 +44,4 @@ These are some of the technologies and tools that I like and study:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-FFF?style=for-the-badge&logo=terraform)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-FFF?style=for-the-badge&logo=kubernetes)
-![Redis](https://img.shields.io/badge/Redis-FFF?style=for-the-badge&logo=redis)
+![Redis](https://img.shields.io/badge/Redis-f8f4f2?style=for-the-badge&logo=redis)
