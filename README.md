@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img alt="Backend First Lang" src="https://img.shields.io/badge/First-Typescript-blue" />
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
   <img alt="Backend Second Lang" src="https://img.shields.io/badge/Second-Python-informational" />
 
