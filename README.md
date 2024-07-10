@@ -6,7 +6,7 @@
 
   <img src="https://img.shields.io/badge/-LangChain-1c3d3c?style=flat-square&logo=langchain&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/-AWS-Bedrock-263d60?style=flat-square&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS Bedrock-263d60?style=flat-square&logo=amazon&logoColor=white" />
   
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f90?style=flat-square&logo=amazon&logoColor=white" />
   
