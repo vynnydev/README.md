@@ -2,7 +2,9 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/-Python-2a577e?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-2a577e?style=flat-square&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-AWS Bedrock-263d60?style=flat-square&logo=bedrock&logoColor=white" />
   
   <img alt="IaC" src="https://img.shields.io/badge/-Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white" />
   
@@ -12,13 +14,12 @@
 
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Architecture-lightgrey" />
   
- 
 </p>
 
 I act as a preference in software enginneer cloud with artificial intelligence, mainly in the cultural environment devops. At the moment, I have loved developing projects with Terraform in conjunction with other cloud tools.
 
 - :office: I'm DevOps Engineer 
-- 🌱 I am currently learning Python, Terraform, AWS, AI, Azure, along with DevOps culture tools
+- 🌱 I am currently learning Python, Terraform, AWS, AI (LangChain, AWS Bedrock and Python), Azure, along with DevOps culture tools
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/vinicius-prudencio/
   See my Instagram: vynnydev => Vinicius Prudencio /
