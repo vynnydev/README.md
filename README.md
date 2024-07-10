@@ -4,7 +4,7 @@
 
   <img src="https://img.shields.io/badge/-Python-2a577e?style=flat-square&logo=python&logoColor=white" />
   
-  <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
+  <img alt="IaC" src="https://img.shields.io/badge/-Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white" />
   
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
   
