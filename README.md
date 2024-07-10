@@ -4,7 +4,7 @@
 
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
-  <img alt="Backend Second Lang" src="https://img.shields.io/badge/Second-Python-informational" />
+  <img src="https://img.shields.io/badge/-Python-informational" />
 
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
