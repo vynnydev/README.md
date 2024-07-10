@@ -32,7 +32,7 @@ I act as a preference in software enginneer cloud with artificial intelligence, 
 These are some of the technologies and tools that I like and study:
 
 ![AWS](https://img.shields.io/badge/-AWS-ff9f1c?style=flat-square&logo=amazon&logoColor=white)
-![Bedrock](https://img.shields.io/badge/-AWS-Bedrock-263d60?style=flat-square&logo=amazon&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-263d60?style=flat-square&logo=amazon&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1c3d3c?style=flat-square&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-2a577e?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-f8f4f2?style=flat-square&logo=docker&logoColor=docker)
