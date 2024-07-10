@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-2a577e?style=flat-square&logo=python&logoColor=white" />
   
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
