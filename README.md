@@ -8,9 +8,10 @@
   
   <img alt="AWS" src="https://img.shields.io/badge/AWS-f90?style=flat-square&logo=amazon&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Architecture-lightgrey" />
   
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  
 </p>
 
