@@ -40,7 +40,7 @@ These are some of the technologies and tools that I like and study:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-f8f4f2?style=flat-square&logo=kubernetes)
 ![commitlint](https://img.shields.io/badge/-commitlint-black?style=flat-square&logo=commitlint&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699cc8?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1a936f?style=flat-square&logo=mongodb&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-06d6a0?style=flat-square&logo=Clean-Architecture&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJS-7209b7?style=flat-square&logo=react&logoColor=white)
