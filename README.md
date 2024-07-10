@@ -6,7 +6,7 @@
   
   <img alt="IaC" src="https://img.shields.io/badge/-Terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white" />
   
-  <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-f90?style=flat-square&logo=aws&logoColor=white" />
   
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-Clean%20Architecture-lightgrey" />
   
